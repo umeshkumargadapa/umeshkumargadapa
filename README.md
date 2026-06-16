@@ -3,38 +3,73 @@
 <h1 align="center">Hi 👋, I'm Gadapa Umesh Kumar</h1>
 
 <h3 align="center">
-AWS Cloud ☁️ | AI/ML 🤖 | Python Developer | Full-Stack Developer 💻
+☁️ AWS Cloud | 🤖 AI/ML |  Python Developer
 </h3>
 
 <p align="center">
-<a href="https://umeshkumargadapa.github.io/">Portfolio</a> •
-<a href="https://github.com/umeshkumargadapa">GitHub</a> •
-<a href="https://linkedin.com/in/gadapa-umesh-kumar">LinkedIn</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AWS+Cloud+Engineer;AI%2FML+Developer;Python+Developer;DevOps+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://umeshkumargadapa.github.io/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge">
+  </a>
+
+  <a href="https://linkedin.com/in/gadapa-umesh-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://github.com/umeshkumargadapa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=umeshkumargadapa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🔭 Currently working on AWS Cloud, DevOps, AI/ML, and Full-Stack Development projects.
+🎓 B.Tech Computer Science Engineering Student (2023–2027)
+
+☁️ Passionate about Cloud Computing, Artificial Intelligence, Machine Learning, and Software Development.
+
+🔭 Currently working on AWS Cloud, AI/ML, DevOps, and Full Stack projects.
 
 🌱 Learning Kubernetes, Terraform, Docker, CI/CD Pipelines, and Cloud Architecture.
 
-👯 Open to collaborating on Open Source, AWS Cloud, AI/ML, and Web Development projects.
+👯 Open to collaborating on Open Source, Cloud Computing, AI/ML, and Web Development projects.
 
-🤝 Looking for opportunities to contribute to impactful software and cloud projects.
+🤝 Looking for Internship and Software Development opportunities.
 
-💬 Ask me about Python, AWS, Docker, Git, Flask, Machine Learning, and Web Development.
+💬 Ask me about AWS, Python, Machine Learning, Docker, Flask, Linux, Git, and Web Development.
 
-⚡ Experienced in AWS Cloud, AI/ML, Python Development, DevOps, and building real-world full-stack applications.
-
-🎓 B.Tech Computer Science Engineering Student (2023–2027)
+⚡ I enjoy building projects that solve real-world problems and sharing my learning journey.
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
+
+---
+
+# 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+Computer Science and Engineering
+
+🏫 Aditya Institute of Technology and Management (AITAM)
+
+📅 2023 – 2027
+
+📈 CGPA: 8.13/10
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://umeshkumargadapa.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
@@ -52,7 +87,7 @@ AWS Cloud ☁️ | AI/ML 🤖 | Python Developer | Full-Stack Developer 💻
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:umeshkumaragadapa5449@gmail.com">
+<a href="mailto:umeshkumargadapa5449@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -60,39 +95,62 @@ AWS Cloud ☁️ | AI/ML 🤖 | Python Developer | Full-Stack Developer 💻
 
 ---
 
-# 💼 Internship Experience
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Umesh131/">
+<img src="https://img.shields.io/badge/LeetCode-Umesh131-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/umesh131">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Umesh131-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Umesh131?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
 
 ## ☁️ AWS Cloud Virtual Internship
 
-- Hands-on experience with EC2, S3, Lambda, IAM, RDS, VPC, and networking concepts.
-- Designed scalable and fault-tolerant cloud architectures following AWS Well-Architected Framework.
-- Worked with AWS CLI, monitoring tools, and cloud deployment workflows.
-- Gained knowledge in security, performance optimization, and cost-efficient cloud solutions.
+<p align="left">
 
----
+☁️ **AWS Services:** EC2 • S3 • Lambda • IAM • RDS • VPC
 
-## 🤖 AI & Machine Learning Intern
-### Smart Bridge Educational Services Pvt. Ltd.
-📅 Jun 2024 – Nov 2024 | 240+ Hours
+🏗️ **Architecture:** Designed scalable and fault-tolerant cloud solutions
 
-- Completed 240+ hours of hands-on training in Artificial Intelligence and Machine Learning.
-- Built machine learning workflows involving data preprocessing, feature engineering, model training, and evaluation.
-- Implemented Regression, Classification, KNN, and Decision Tree algorithms on real-world datasets.
-- Worked with NumPy, Pandas, Scikit-learn, and Python-based ML tools.
-- Strengthened analytical thinking, data-driven decision making, and practical problem-solving skills.
+📐 **Framework:** AWS Well-Architected Framework
 
----
+💻 **Tools:** AWS CLI • Cloud Monitoring • Deployment Workflows
 
-##  Python with Machine Learning Intern
-### RVNS Solutions Private Limited
-📅 Feb 2026 – May 2026
+🔒 **Security:** IAM Policies • Access Management • Best Practices
 
-- Worked on Python-based machine learning concepts and applications.
-- Gained exposure to industry tools, technologies, and professional workflows.
-- Participated in project-based learning activities involving data processing and model development.
-- Enhanced problem-solving, analytical thinking, and practical implementation skills.
+⚡ **Optimization:** Performance Tuning • Cost Optimization
 
----
+🌐 **Networking:** VPC • Subnets • Route Tables • Security Groups
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
 
 # 🚀 Featured Projects
 
@@ -102,14 +160,23 @@ AWS Cloud ☁️ | AI/ML 🤖 | Python Developer | Full-Stack Developer 💻
 - Secure authentication with bcrypt.
 - Real-time leaderboard and score tracking.
 - Flask + SQLite backend.
-- Responsive UI using HTML, CSS, and JavaScript.
+- Adaptive difficulty and instant feedback.
 
-🔗 Live Demo:
-https://neuroquiz-clxk.onrender.com
+🔗 https://neuroquiz-clxk.onrender.com
 
 ---
 
-# 💻 Tech Stack
+## 🌐 Personal Portfolio Website
+
+- Responsive portfolio showcasing projects, certifications, internships, and achievements.
+- Built using HTML, CSS, JavaScript, and GitHub Pages.
+
+🔗 https://umeshkumargadapa.github.io/
+
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -117,32 +184,36 @@ https://neuroquiz-clxk.onrender.com
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ### AI & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Cloud & DevOps
+---
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+# ⚡ Featured Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,aws,docker,kubernetes,jenkins,git,github,mysql,mongodb,flask,linux,vscode" />
+</p>
+
 
 ---
 
-# 🏆 Certifications
+# 📄 Resume
 
-- AWS Certified Cloud Practitioner (CLF-C02)
-- NPTEL – Introduction to Machine Learning (IIT Madras)
-- NPTEL – Fundamental Algorithms: Design and Analysis
-- QSkill Python Development Internship
-- RVNS Solutions Python with Machine Learning Internship
-- IBM Databases & SQL for Data Science with Python
-- IBM Introduction to HTML, CSS & JavaScript
+📥 Available through LinkedIn and Portfolio
+
+🌐 Portfolio: https://umeshkumargadapa.github.io/
 
 ---
 
@@ -162,14 +233,36 @@ https://neuroquiz-clxk.onrender.com
 
 ---
 
+# 🏆 GitHub Trophies
 
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=umeshkumargadapa&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://github-profile-trophy.vercel.app/?username=umeshkumargadapa&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
-⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
+# 📈 Contribution Graph
+
+[![Umesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umeshkumargadapa&theme=tokyo-night)](https://github.com/umeshkumargadapa)
+
+---
+
+# ✍️ Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 📬 Contact Me
+
+📧 Email: umeshkumargadapa5449@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/gadapa-umesh-kumar
+
+🌐 Portfolio: https://umeshkumargadapa.github.io/
+
+💻 GitHub: https://github.com/umeshkumargadapa
+
+📸 Instagram: https://www.instagram.com/uk_dream_chaser
+
+---
+
+⭐ *"Learn continuously, build consistently, and solve problems that create real impact."*
