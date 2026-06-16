@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Umesh Kumar Banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Gadapa Umesh Kumar</h1>
 
