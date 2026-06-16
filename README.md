@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Gadapa Umesh Kumar</h1>
 
 <h3 align="center">
-AWS Cloud ☁️ | AI/ML 🤖 | Python Developer 🐍 | Full-Stack Developer 💻
+AWS Cloud ☁️ | AI/ML 🤖 | Python Developer | Full-Stack Developer 💻
 </h3>
 
 <p align="center">
@@ -85,7 +85,7 @@ AWS Cloud ☁️ | AI/ML 🤖 | Python Developer 🐍 | Full-Stack Developer �
 
 ---
 
-## 🐍 Python with Machine Learning Intern
+##  Python with Machine Learning Intern
 ### RVNS Solutions Private Limited
 📅 Feb 2026 – May 2026
 
@@ -164,9 +164,7 @@ https://neuroquiz-clxk.onrender.com
 
 ---
 
-## 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=umeshkumargadapa&theme=tokyonight)
 
 ---
 
