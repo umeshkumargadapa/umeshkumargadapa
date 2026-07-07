@@ -199,10 +199,8 @@
 ## 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umeshkumargadapa&show_icons=true&theme=tokyonight" alt="Umesh's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshkumargadapa&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br><br>
+  
+
   <a href="https://github.com/umeshkumargadapa">
     <img src="https://streak-stats.demolab.com?user=umeshkumargadapa&theme=tokyonight" alt="GitHub Streak" />
   </a>
